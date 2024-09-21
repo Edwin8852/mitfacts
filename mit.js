@@ -1,5 +1,5 @@
 var mit = {
-    city: 'GopiChettipalayam',
+    city: 'Londan',
     colors: ['pink', 'red'],
     mascot: "robot",
     founded: 1900,
